@@ -40,3 +40,23 @@ Without cd'ing into it, list *every* *single* *file* that exists in **website** 
 ## Problem 5: CHALLENGE
 
 With one line, list all the *.css* files that exist in **website** directory
+
+## Problem 6:
+
+First, make note of where you are right now by typing:
+
+```bash
+pwd
+```
+
+If you want, you can copy and paste the output and save it somewhere. You **will** need this later.
+
+Then, type this:
+
+```bash
+cd ~
+```
+
+Where are you now? How can you tell?
+
+Now, go back to where you were at the beginning of the problem. Is it possible to do this one command? 
